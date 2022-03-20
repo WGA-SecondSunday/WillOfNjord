@@ -224,389 +224,389 @@
 "../../../Engine/Content/BasicShapes/Sphere.uexp" 223
 "C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingInfoWidgets/BP_BuildingWidgetBase.uasset" 224
 "C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingInfoWidgets/BP_BuildingWidgetBase.uexp" 225
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_ResourceTypes.uasset" 226
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_ResourceTypes.uexp" 227
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 228
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 229
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/Maps/MainMap/BP_OurPlayerController.uasset" 230
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/Maps/MainMap/BP_OurPlayerController.uexp" 231
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/Maps/MainMap/BP_OurPawnCamera.uasset" 232
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/Maps/MainMap/BP_OurPawnCamera.uexp" 233
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ship_long_top+.uasset" 234
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ship_long_top+.uexp" 235
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ship_long_top.uasset" 236
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ship_long_top.uexp" 237
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_tap.uasset" 238
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_tap.uexp" 239
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_stat.uasset" 240
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_stat.uexp" 241
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_din.uasset" 242
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_din.uexp" 243
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_tap.uasset" 244
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_tap.uexp" 245
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_stat.uasset" 246
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_stat.uexp" 247
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_din.uasset" 248
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_din.uexp" 249
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_tap.uasset" 250
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_tap.uexp" 251
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_stat.uasset" 252
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_stat.uexp" 253
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_din.uasset" 254
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_din.uexp" 255
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_tap.uasset" 256
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_tap.uexp" 257
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_stat.uasset" 258
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_stat.uexp" 259
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_din.uasset" 260
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_din.uexp" 261
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_stop.uasset" 262
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_stop.uexp" 263
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_play+.uasset" 264
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_play+.uexp" 265
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_play.uasset" 266
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_play.uexp" 267
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/TimeManagement/BP_Timer.uasset" 268
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/TimeManagement/BP_Timer.uexp" 269
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/TimeManagement/BP_TimeManager.uasset" 270
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/TimeManagement/BP_TimeManager.uexp" 271
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_TimeWidget.uasset" 272
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_TimeWidget.uexp" 273
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_wood.uasset" 274
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_wood.uexp" 275
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_rock.uasset" 276
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_rock.uexp" 277
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_metal.uasset" 278
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_metal.uexp" 279
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_grass.uasset" 280
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_grass.uexp" 281
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_StructResBar.uasset" 282
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_StructResBar.uexp" 283
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_food.uasset" 284
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_food.uexp" 285
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_top.uasset" 286
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_top.uexp" 287
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_mid.uasset" 288
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_mid.uexp" 289
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_bottom.uasset" 290
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_bottom.uexp" 291
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_UResource.uasset" 292
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_UResource.uexp" 293
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_OurCustomProgressBar.uasset" 294
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_OurCustomProgressBar.uexp" 295
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_ResourcesBarWidget.uasset" 296
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_ResourcesBarWidget.uexp" 297
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/WoodcutterIcon.uasset" 298
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/WoodcutterIcon.uexp" 299
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/StonehouseIcon.uasset" 300
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/StonehouseIcon.uexp" 301
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HunterIcon.uasset" 302
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HunterIcon.uexp" 303
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HouseIcon.uasset" 304
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HouseIcon.uexp" 305
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HerbalIcon.uasset" 306
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HerbalIcon.uexp" 307
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/ForgeIcon.uasset" 308
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/ForgeIcon.uexp" 309
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/CityhallIcon.uasset" 310
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/CityhallIcon.uexp" 311
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_StructBuildingClassAndIcon.uasset" 312
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_StructBuildingClassAndIcon.uexp" 313
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 314
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 315
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_TestSphere.uasset" 316
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_TestSphere.uexp" 317
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 318
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 319
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneNormalsMap.uasset" 320
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneNormalsMap.uexp" 321
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneNormalsMap.ubulk" 322
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneLightingMap.uasset" 323
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneLightingMap.uexp" 324
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneLightingMap.ubulk" 325
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneAlphaMap.uasset" 326
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneAlphaMap.uexp" 327
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneAlphaMap.ubulk" 328
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneHeightMap.uasset" 329
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneHeightMap.uexp" 330
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneHeightMap.ubulk" 331
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/3dParticleOpacity.uasset" 332
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/3dParticleOpacity.uexp" 333
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 334
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 335
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset" 336
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uexp" 337
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/BP_MeshedSpawnSpot.uasset" 338
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/BP_MeshedSpawnSpot.uexp" 339
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BP_BuildingCondition.uasset" 340
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BP_BuildingCondition.uexp" 341
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Conditions/BP_ResourceCondition.uasset" 342
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Conditions/BP_ResourceCondition.uexp" 343
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mesh.uasset" 344
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mesh.uexp" 345
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Roughness.uasset" 346
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Roughness.uexp" 347
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Roughness.ubulk" 348
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Normal_DirectX.uasset" 349
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Normal_DirectX.uexp" 350
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Normal_DirectX.ubulk" 351
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mixed_AO.uasset" 352
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mixed_AO.uexp" 353
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mixed_AO.ubulk" 354
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Base_Color.uasset" 355
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Base_Color.uexp" 356
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Base_Color.ubulk" 357
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Material.uasset" 358
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Material.uexp" 359
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Producer.uasset" 360
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Producer.uexp" 361
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Consumer.uasset" 362
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Consumer.uexp" 363
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_Person.uasset" 364
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_Person.uexp" 365
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_EfficiencyModifier.uasset" 366
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_EfficiencyModifier.uexp" 367
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Worker.uasset" 368
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Worker.uexp" 369
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Observers.uasset" 370
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Observers.uexp" 371
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Collectors.uasset" 372
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Collectors.uexp" 373
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Stonecutters.uasset" 374
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Stonecutters.uexp" 375
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Hunters.uasset" 376
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Hunters.uexp" 377
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Healers.uasset" 378
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Healers.uexp" 379
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Blacksmiths.uasset" 380
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Blacksmiths.uexp" 381
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BPDA_ProfMan_Data.uasset" 382
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BPDA_ProfMan_Data.uexp" 383
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/DA_ProfMan.uasset" 384
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/DA_ProfMan.uexp" 385
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_ProfessionManager.uasset" 386
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_ProfessionManager.uexp" 387
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Profession.uasset" 388
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Profession.uexp" 389
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Woodcutters.uasset" 390
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Woodcutters.uexp" 391
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/BP_WoodcutterHut.uasset" 392
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/BP_WoodcutterHut.uexp" 393
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mesh.uasset" 394
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mesh.uexp" 395
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Roughness.uasset" 396
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Roughness.uexp" 397
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Roughness.ubulk" 398
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Normal_DirectX.uasset" 399
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Normal_DirectX.uexp" 400
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Normal_DirectX.ubulk" 401
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mixed_AO.uasset" 402
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mixed_AO.uexp" 403
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mixed_AO.ubulk" 404
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Base_Color.uasset" 405
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Base_Color.uexp" 406
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Base_Color.ubulk" 407
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mat.uasset" 408
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mat.uexp" 409
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/BP_StoneHouse.uasset" 410
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/BP_StoneHouse.uexp" 411
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mesh.uasset" 412
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mesh.uexp" 413
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Roughness.uasset" 414
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Roughness.uexp" 415
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Roughness.ubulk" 416
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Normal_DirectX.uasset" 417
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Normal_DirectX.uexp" 418
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Normal_DirectX.ubulk" 419
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mixed_AO.uasset" 420
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mixed_AO.uexp" 421
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mixed_AO.ubulk" 422
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/ObserverTower_Base_Color.uasset" 423
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/ObserverTower_Base_Color.uexp" 424
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/ObserverTower_Base_Color.ubulk" 425
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Material.uasset" 426
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Material.uexp" 427
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/BP_ObserverTower.uasset" 428
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/BP_ObserverTower.uexp" 429
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mesh.uasset" 430
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mesh.uexp" 431
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Roughness.uasset" 432
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Roughness.uexp" 433
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Roughness.ubulk" 434
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mixed_AO.uasset" 435
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mixed_AO.uexp" 436
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mixed_AO.ubulk" 437
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Base_Color.uasset" 438
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Base_Color.uexp" 439
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Base_Color.ubulk" 440
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHutl_Normal_DirectX.uasset" 441
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHutl_Normal_DirectX.uexp" 442
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHutl_Normal_DirectX.ubulk" 443
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Material.uasset" 444
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Material.uexp" 445
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/BP_HunterHut.uasset" 446
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/BP_HunterHut.uexp" 447
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mesh.uasset" 448
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mesh.uexp" 449
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Roughness.uasset" 450
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Roughness.uexp" 451
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Roughness.ubulk" 452
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Normal_DirectX.uasset" 453
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Normal_DirectX.uexp" 454
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Normal_DirectX.ubulk" 455
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mixed_AO.uasset" 456
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mixed_AO.uexp" 457
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mixed_AO.ubulk" 458
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Base_Color.uasset" 459
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Base_Color.uexp" 460
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Base_Color.ubulk" 461
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Material.uasset" 462
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Material.uexp" 463
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonStruct.uasset" 464
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonStruct.uexp" 465
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonMan_Data.uasset" 466
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonMan_Data.uexp" 467
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/People/BP_PersonMan_Data.uasset" 468
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/People/BP_PersonMan_Data.uexp" 469
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonManager.uasset" 470
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonManager.uexp" 471
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/BP_House.uasset" 472
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/BP_House.uexp" 473
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mesh.uasset" 474
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mesh.uexp" 475
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Roughness.uasset" 476
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Roughness.uexp" 477
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Roughness.ubulk" 478
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Normal_DirectX.uasset" 479
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Normal_DirectX.uexp" 480
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Normal_DirectX.ubulk" 481
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mixed_AO.uasset" 482
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mixed_AO.uexp" 483
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mixed_AO.ubulk" 484
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Base_Color.uasset" 485
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Base_Color.uexp" 486
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Base_Color.ubulk" 487
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Material.uasset" 488
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Material.uexp" 489
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingInfoWidgets/BP_3DPlayerFacingWidget.uasset" 490
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingInfoWidgets/BP_3DPlayerFacingWidget.uexp" 491
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/BP_HerbalHut.uasset" 492
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/BP_HerbalHut.uexp" 493
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge.uasset" 494
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge.uexp" 495
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Roughness.uasset" 496
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Roughness.uexp" 497
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Roughness.ubulk" 498
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Normal_DirectX.uasset" 499
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Normal_DirectX.uexp" 500
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Normal_DirectX.ubulk" 501
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Emissive.uasset" 502
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Emissive.uexp" 503
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Emissive.ubulk" 504
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Base_Color.uasset" 505
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Base_Color.uexp" 506
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Base_Color.ubulk" 507
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forgel_Mixed_AO.uasset" 508
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forgel_Mixed_AO.uexp" 509
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forgel_Mixed_AO.ubulk" 510
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Material.uasset" 511
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Material.uexp" 512
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/BP_Forge.uasset" 513
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/BP_Forge.uexp" 514
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mesh.uasset" 515
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mesh.uexp" 516
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Roughness.uasset" 517
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Roughness.uexp" 518
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Roughness.ubulk" 519
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Normal_DirectX.uasset" 520
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Normal_DirectX.uexp" 521
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Normal_DirectX.ubulk" 522
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mixed_AO.uasset" 523
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mixed_AO.uexp" 524
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mixed_AO.ubulk" 525
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Base_Color.uasset" 526
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Base_Color.uexp" 527
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Base_Color.ubulk" 528
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Material.uasset" 529
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Material.uexp" 530
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/BP_CityHall.uasset" 531
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/BP_CityHall.uexp" 532
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BPDA_BuildMan_BaseData.uasset" 533
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BPDA_BuildMan_BaseData.uexp" 534
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/BPDA_BuildMan_Static.uasset" 535
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/BPDA_BuildMan_Static.uexp" 536
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/DA_BuildManStatic.uasset" 537
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/DA_BuildManStatic.uexp" 538
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BP_BuildingManager.uasset" 539
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BP_BuildingManager.uexp" 540
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_DraggableBuilding.uasset" 541
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_DraggableBuilding.uexp" 542
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/ObserverIcon.uasset" 543
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/ObserverIcon.uexp" 544
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_BuildingsWidget.uasset" 545
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_BuildingsWidget.uexp" 546
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonMenuPic.uasset" 547
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonMenuPic.uexp" 548
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonEmptySlot.uasset" 549
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonEmptySlot.uexp" 550
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person70Slot.uasset" 551
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person70Slot.uexp" 552
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person30Slot.uasset" 553
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person30Slot.uexp" 554
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person100Slot1.uasset" 555
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person100Slot1.uexp" 556
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_DraggablePerson.uasset" 557
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_DraggablePerson.uexp" 558
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonDisableSlot.uasset" 559
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonDisableSlot.uexp" 560
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_EmptySlot.uasset" 561
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_EmptySlot.uexp" 562
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_DisableSlot.uasset" 563
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_DisableSlot.uexp" 564
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_PersonWidget.uasset" 565
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_PersonWidget.uexp" 566
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_HUD.uasset" 567
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_HUD.uexp" 568
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/WeatherWudget/WeatherPropertySlot.uasset" 569
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/WeatherWudget/WeatherPropertySlot.uexp" 570
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_WeatherValues.uasset" 571
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_WeatherValues.uexp" 572
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_Weather.uasset" 573
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_Weather.uexp" 574
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_WeatherManager.uasset" 575
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_WeatherManager.uexp" 576
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/WeatherWudget/DBG_HUD_Weather.uasset" 577
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/WeatherWudget/DBG_HUD_Weather.uexp" 578
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/ResourceRow.uasset" 579
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/ResourceRow.uexp" 580
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/HUD_DBG_ResMan.uasset" 581
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/HUD_DBG_ResMan.uexp" 582
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventEffect.uasset" 583
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventEffect.uexp" 584
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/GameEvents/Test/BP_TestEffect.uasset" 585
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/GameEvents/Test/BP_TestEffect.uexp" 586
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventTexts.uasset" 587
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventTexts.uexp" 588
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventCondition.uasset" 589
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventCondition.uexp" 590
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent_Info.uasset" 591
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent_Info.uexp" 592
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BPDA_GameEvents.uasset" 593
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BPDA_GameEvents.uexp" 594
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/GameEvents/DA_GameEvents_Test.uasset" 595
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/GameEvents/DA_GameEvents_Test.uexp" 596
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent.uasset" 597
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent.uexp" 598
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent_Static.uasset" 599
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent_Static.uexp" 600
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventManager.uasset" 601
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventManager.uexp" 602
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BP_Gamemode.uasset" 603
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BP_Gamemode.uexp" 604
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/Base/BaseManager.uasset" 605
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/Base/BaseManager.uexp" 606
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_UResourceManager.uasset" 607
-"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_UResourceManager.uexp" 608
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/Maps/MainMap/BP_OurPlayerController.uasset" 226
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/Maps/MainMap/BP_OurPlayerController.uexp" 227
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/Maps/MainMap/BP_OurPawnCamera.uasset" 228
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/Maps/MainMap/BP_OurPawnCamera.uexp" 229
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_ResourceTypes.uasset" 230
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_ResourceTypes.uexp" 231
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Producer.uasset" 232
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Producer.uexp" 233
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_EfficiencyModifier.uasset" 234
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_EfficiencyModifier.uexp" 235
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Consumer.uasset" 236
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Consumer.uexp" 237
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 238
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 239
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_Person.uasset" 240
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_Person.uexp" 241
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_UResource.uasset" 242
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_UResource.uexp" 243
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/TimeManagement/BP_Timer.uasset" 244
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/TimeManagement/BP_Timer.uexp" 245
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/Base/BaseManager.uasset" 246
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/Base/BaseManager.uexp" 247
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/TimeManagement/BP_TimeManager.uasset" 248
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/TimeManagement/BP_TimeManager.uexp" 249
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_UResourceManager.uasset" 250
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ResourceManagement/BP_UResourceManager.uexp" 251
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BP_BuildingCondition.uasset" 252
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BP_BuildingCondition.uexp" 253
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Conditions/BP_ResourceCondition.uasset" 254
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Conditions/BP_ResourceCondition.uexp" 255
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mesh.uasset" 256
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mesh.uexp" 257
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Roughness.uasset" 258
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Roughness.uexp" 259
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Roughness.ubulk" 260
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Normal_DirectX.uasset" 261
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Normal_DirectX.uexp" 262
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Normal_DirectX.ubulk" 263
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mixed_AO.uasset" 264
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mixed_AO.uexp" 265
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Mixed_AO.ubulk" 266
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Base_Color.uasset" 267
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Base_Color.uexp" 268
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Base_Color.ubulk" 269
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Material.uasset" 270
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/Materials/Woodcutter_Material.uexp" 271
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Woodcutters.uasset" 272
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Woodcutters.uexp" 273
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/BP_WoodcutterHut.uasset" 274
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/WoodCutterHut/BP_WoodcutterHut.uexp" 275
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mesh.uasset" 276
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mesh.uexp" 277
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Roughness.uasset" 278
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Roughness.uexp" 279
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Roughness.ubulk" 280
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Normal_DirectX.uasset" 281
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Normal_DirectX.uexp" 282
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Normal_DirectX.ubulk" 283
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mixed_AO.uasset" 284
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mixed_AO.uexp" 285
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mixed_AO.ubulk" 286
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Base_Color.uasset" 287
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Base_Color.uexp" 288
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Base_Color.ubulk" 289
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mat.uasset" 290
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/Materials/StoneHouse_Mat.uexp" 291
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Stonecutters.uasset" 292
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Stonecutters.uexp" 293
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/BP_StoneHouse.uasset" 294
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/StoneHouse/BP_StoneHouse.uexp" 295
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mesh.uasset" 296
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mesh.uexp" 297
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Roughness.uasset" 298
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Roughness.uexp" 299
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Roughness.ubulk" 300
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Normal_DirectX.uasset" 301
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Normal_DirectX.uexp" 302
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Normal_DirectX.ubulk" 303
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mixed_AO.uasset" 304
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mixed_AO.uexp" 305
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Mixed_AO.ubulk" 306
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/ObserverTower_Base_Color.uasset" 307
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/ObserverTower_Base_Color.uexp" 308
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/ObserverTower_Base_Color.ubulk" 309
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Material.uasset" 310
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/Materials/Observer_Material.uexp" 311
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/BP_ObserverTower.uasset" 312
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/ObserverTower/BP_ObserverTower.uexp" 313
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mesh.uasset" 314
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mesh.uexp" 315
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Roughness.uasset" 316
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Roughness.uexp" 317
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Roughness.ubulk" 318
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mixed_AO.uasset" 319
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mixed_AO.uexp" 320
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Mixed_AO.ubulk" 321
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Base_Color.uasset" 322
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Base_Color.uexp" 323
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Base_Color.ubulk" 324
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHutl_Normal_DirectX.uasset" 325
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHutl_Normal_DirectX.uexp" 326
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHutl_Normal_DirectX.ubulk" 327
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Material.uasset" 328
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/Materials/HunterHut_Material.uexp" 329
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Hunters.uasset" 330
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Hunters.uexp" 331
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/BP_HunterHut.uasset" 332
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HunterHut/BP_HunterHut.uexp" 333
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mesh.uasset" 334
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mesh.uexp" 335
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Roughness.uasset" 336
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Roughness.uexp" 337
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Roughness.ubulk" 338
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Normal_DirectX.uasset" 339
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Normal_DirectX.uexp" 340
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Normal_DirectX.ubulk" 341
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mixed_AO.uasset" 342
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mixed_AO.uexp" 343
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Mixed_AO.ubulk" 344
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Base_Color.uasset" 345
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Base_Color.uexp" 346
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Base_Color.ubulk" 347
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Material.uasset" 348
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/Materials/House_Material.uexp" 349
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/BP_House.uasset" 350
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/House/BP_House.uexp" 351
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mesh.uasset" 352
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mesh.uexp" 353
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Roughness.uasset" 354
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Roughness.uexp" 355
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Roughness.ubulk" 356
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Normal_DirectX.uasset" 357
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Normal_DirectX.uexp" 358
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Normal_DirectX.ubulk" 359
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mixed_AO.uasset" 360
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mixed_AO.uexp" 361
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Mixed_AO.ubulk" 362
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Base_Color.uasset" 363
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Base_Color.uexp" 364
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Base_Color.ubulk" 365
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Material.uasset" 366
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/Materials/HerbalHut_Material.uexp" 367
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Healers.uasset" 368
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Healers.uexp" 369
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingInfoWidgets/BP_3DPlayerFacingWidget.uasset" 370
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingInfoWidgets/BP_3DPlayerFacingWidget.uexp" 371
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/BP_HerbalHut.uasset" 372
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/HerbalHut/BP_HerbalHut.uexp" 373
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge.uasset" 374
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge.uexp" 375
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Roughness.uasset" 376
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Roughness.uexp" 377
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Roughness.ubulk" 378
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Normal_DirectX.uasset" 379
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Normal_DirectX.uexp" 380
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Normal_DirectX.ubulk" 381
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Emissive.uasset" 382
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Emissive.uexp" 383
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Emissive.ubulk" 384
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Base_Color.uasset" 385
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Base_Color.uexp" 386
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Base_Color.ubulk" 387
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forgel_Mixed_AO.uasset" 388
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forgel_Mixed_AO.uexp" 389
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forgel_Mixed_AO.ubulk" 390
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Material.uasset" 391
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/Materials/Forge_Material.uexp" 392
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Blacksmiths.uasset" 393
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Blacksmiths.uexp" 394
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/BP_Forge.uasset" 395
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/Forge/BP_Forge.uexp" 396
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mesh.uasset" 397
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mesh.uexp" 398
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Roughness.uasset" 399
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Roughness.uexp" 400
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Roughness.ubulk" 401
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Normal_DirectX.uasset" 402
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Normal_DirectX.uexp" 403
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Normal_DirectX.ubulk" 404
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mixed_AO.uasset" 405
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mixed_AO.uexp" 406
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Mixed_AO.ubulk" 407
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Base_Color.uasset" 408
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Base_Color.uexp" 409
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Base_Color.ubulk" 410
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Material.uasset" 411
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/Materials/CityHall_Material.uexp" 412
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/BP_CityHall.uasset" 413
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/CityHall/BP_CityHall.uexp" 414
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BPDA_BuildMan_BaseData.uasset" 415
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BPDA_BuildMan_BaseData.uexp" 416
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/BPDA_BuildMan_Static.uasset" 417
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/BPDA_BuildMan_Static.uexp" 418
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/DA_BuildManStatic.uasset" 419
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/DA_BuildManStatic.uexp" 420
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BP_BuildingManager.uasset" 421
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BuildingManagement/BP_BuildingManager.uexp" 422
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Worker.uasset" 423
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Worker.uexp" 424
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Observers.uasset" 425
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Observers.uexp" 426
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Collectors.uasset" 427
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/BP_Collectors.uexp" 428
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BPDA_ProfMan_Data.uasset" 429
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BPDA_ProfMan_Data.uexp" 430
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/DA_ProfMan.uasset" 431
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Professions/DA_ProfMan.uexp" 432
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_ProfessionManager.uasset" 433
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_ProfessionManager.uexp" 434
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Profession.uasset" 435
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/ProfessionManagement/BP_Profession.uexp" 436
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonStruct.uasset" 437
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonStruct.uexp" 438
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonMan_Data.uasset" 439
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonMan_Data.uexp" 440
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/People/BP_PersonMan_Data.uasset" 441
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/People/BP_PersonMan_Data.uexp" 442
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonManager.uasset" 443
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/PeopleManagement/BP_PersonManager.uexp" 444
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventEffect.uasset" 445
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventEffect.uexp" 446
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/GameEvents/Test/BP_TestEffect.uasset" 447
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/GameEvents/Test/BP_TestEffect.uexp" 448
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventTexts.uasset" 449
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventTexts.uexp" 450
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventCondition.uasset" 451
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventCondition.uexp" 452
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent_Info.uasset" 453
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent_Info.uexp" 454
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BPDA_GameEvents.uasset" 455
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BPDA_GameEvents.uexp" 456
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/GameEvents/DA_GameEvents_Test.uasset" 457
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/GameEvents/DA_GameEvents_Test.uexp" 458
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent.uasset" 459
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent.uexp" 460
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent_Static.uasset" 461
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEvent_Static.uexp" 462
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventManager.uasset" 463
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/GameEventManagement/BP_GameEventManager.uexp" 464
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_WeatherValues.uasset" 465
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_WeatherValues.uexp" 466
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_Weather.uasset" 467
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_Weather.uexp" 468
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_WeatherManager.uasset" 469
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/WeatherManagement/BP_WeatherManager.uexp" 470
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ship_long_top+.uasset" 471
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ship_long_top+.uexp" 472
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ship_long_top.uasset" 473
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ship_long_top.uexp" 474
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_tap.uasset" 475
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_tap.uexp" 476
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_stat.uasset" 477
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_stat.uexp" 478
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_din.uasset" 479
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/job_din.uexp" 480
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_tap.uasset" 481
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_tap.uexp" 482
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_stat.uasset" 483
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_stat.uexp" 484
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_din.uasset" 485
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/ivent_din.uexp" 486
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_tap.uasset" 487
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_tap.uexp" 488
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_stat.uasset" 489
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_stat.uexp" 490
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_din.uasset" 491
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/home_din.uexp" 492
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_tap.uasset" 493
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_tap.uexp" 494
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_stat.uasset" 495
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_stat.uexp" 496
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_din.uasset" 497
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/construction_din.uexp" 498
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_stop.uasset" 499
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_stop.uexp" 500
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_play+.uasset" 501
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_play+.uexp" 502
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_play.uasset" 503
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/time_play.uexp" 504
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_TimeWidget.uasset" 505
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_TimeWidget.uexp" 506
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_wood.uasset" 507
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_wood.uexp" 508
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_rock.uasset" 509
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_rock.uexp" 510
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_metal.uasset" 511
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_metal.uexp" 512
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_grass.uasset" 513
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_grass.uexp" 514
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_StructResBar.uasset" 515
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_StructResBar.uexp" 516
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_food.uasset" 517
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_stat_food.uexp" 518
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_top.uasset" 519
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_top.uexp" 520
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_mid.uasset" 521
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_mid.uexp" 522
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_bottom.uasset" 523
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/Materials/materials_din_bottom.uexp" 524
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_OurCustomProgressBar.uasset" 525
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_OurCustomProgressBar.uexp" 526
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_ResourcesBarWidget.uasset" 527
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_ResourcesBarWidget.uexp" 528
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/WoodcutterIcon.uasset" 529
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/WoodcutterIcon.uexp" 530
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/StonehouseIcon.uasset" 531
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/StonehouseIcon.uexp" 532
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HunterIcon.uasset" 533
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HunterIcon.uexp" 534
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HouseIcon.uasset" 535
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HouseIcon.uexp" 536
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HerbalIcon.uasset" 537
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/HerbalIcon.uexp" 538
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/ForgeIcon.uasset" 539
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/ForgeIcon.uexp" 540
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/CityhallIcon.uasset" 541
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/CityhallIcon.uexp" 542
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_StructBuildingClassAndIcon.uasset" 543
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_StructBuildingClassAndIcon.uexp" 544
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 545
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 546
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_TestSphere.uasset" 547
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_TestSphere.uexp" 548
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 549
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 550
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneNormalsMap.uasset" 551
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneNormalsMap.uexp" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneNormalsMap.ubulk" 553
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneLightingMap.uasset" 554
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneLightingMap.uexp" 555
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneLightingMap.ubulk" 556
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneAlphaMap.uasset" 557
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneAlphaMap.uexp" 558
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneAlphaMap.ubulk" 559
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneHeightMap.uasset" 560
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneHeightMap.uexp" 561
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/newhplaneHeightMap.ubulk" 562
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/3dParticleOpacity.uasset" 563
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/3dParticleOpacity.uexp" 564
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 565
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 566
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset" 567
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uexp" 568
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/BP_MeshedSpawnSpot.uasset" 569
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/GameData/Buildings/BP_MeshedSpawnSpot.uexp" 570
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_DraggableBuilding.uasset" 571
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_DraggableBuilding.uexp" 572
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/ObserverIcon.uasset" 573
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/Material/ObserverIcon.uexp" 574
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_BuildingsWidget.uasset" 575
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingsWidget/BP_BuildingsWidget.uexp" 576
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonMenuPic.uasset" 577
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonMenuPic.uexp" 578
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonEmptySlot.uasset" 579
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonEmptySlot.uexp" 580
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person70Slot.uasset" 581
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person70Slot.uexp" 582
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person30Slot.uasset" 583
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person30Slot.uexp" 584
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person100Slot1.uasset" 585
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/Person100Slot1.uexp" 586
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_DraggablePerson.uasset" 587
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_DraggablePerson.uexp" 588
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonDisableSlot.uasset" 589
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/Material/PersonDisableSlot.uexp" 590
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_EmptySlot.uasset" 591
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_EmptySlot.uexp" 592
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_DisableSlot.uasset" 593
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_DisableSlot.uexp" 594
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_PersonWidget.uasset" 595
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/PersonWidgets/BP_PersonWidget.uexp" 596
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_HUD.uasset" 597
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/TimerAndScreenButtons/BP_HUD.uexp" 598
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/WeatherWudget/WeatherPropertySlot.uasset" 599
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/WeatherWudget/WeatherPropertySlot.uexp" 600
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/WeatherWudget/DBG_HUD_Weather.uasset" 601
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/WeatherWudget/DBG_HUD_Weather.uexp" 602
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/ResourceRow.uasset" 603
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/ResourceRow.uexp" 604
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/HUD_DBG_ResMan.uasset" 605
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/BP/HUD_DBG_ResMan.uexp" 606
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BP_Gamemode.uasset" 607
+"C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/BP_Core/BP_Gamemode.uexp" 608
 "C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingInfoWidgets/BP_StatusChangeW.uasset" 609
 "C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingInfoWidgets/BP_StatusChangeW.uexp" 610
 "C:/SecondSunday/[dev] WillOfNjord/WillOfNjord/Content/UI/Widgets/BuildingInfoWidgets/BP_BuildingInfoW.uasset" 611
@@ -1021,27 +1021,27 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 1020
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 1021
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 1022
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 1023
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 1024
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 1025
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 1026
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 1027
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 1028
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 1029
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1030
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 1031
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 1032
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 1033
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 1034
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 1035
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 1036
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 1037
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 1038
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 1039
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1040
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 1041
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 1042
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 1043
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1023
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 1024
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 1025
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 1026
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 1027
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 1028
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 1029
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 1030
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 1031
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 1032
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 1033
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1034
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 1035
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 1036
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 1037
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 1038
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 1039
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 1040
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 1041
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 1042
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 1043
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 1044
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 1045
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 1046
